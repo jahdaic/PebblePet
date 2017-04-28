@@ -1,0 +1,89 @@
+{
+    "appKeys": {},
+    "companyName": "mewt2o",
+    "longName": "Pebble Pet",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/blank.png",
+                "name": "BLANK_SPRITE",
+                "type": "png"
+            },
+            {
+                "file": "images/dead2.png",
+                "name": "DEAD_SPRITE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/dead1.png",
+                "name": "DEAD_SPRITE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/night.png",
+                "name": "NIGHT_BG",
+                "type": "png"
+            },
+            {
+                "file": "images/baby1.png",
+                "name": "BABY_SPRITE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/egg3.png",
+                "name": "EGG_SPRITE_3",
+                "type": "png"
+            },
+            {
+                "file": "images/egg2.png",
+                "name": "EGG_SPRITE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/egg1.png",
+                "name": "EGG_SPRITE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "APP_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/sick2.png",
+                "name": "SICK_SPRITE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/sick1.png",
+                "name": "SICK_SPRITE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/teen2.png",
+                "name": "TEEN_SPRITE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/teen1.png",
+                "name": "TEEN_SPRITE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/baby2.png",
+                "name": "BABY_SPRITE_2",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Pebble Pet",
+    "uuid": "2962d1e3-297f-4dbc-9220-6dbd3341f3d9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
